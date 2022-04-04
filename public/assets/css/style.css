@@ -135,7 +135,7 @@ h6 {
 --------------------------------------------------------------*/
 
 #header {
-    background: #fff;
+    background: #030f27;
     transition: all 0.5s;
     z-index: 997;
     padding: 15px 0;
@@ -225,7 +225,7 @@ h6 {
     font-family: "Poppins", sans-serif;
     font-size: 15px;
     font-weight: 500;
-    color: #37423b;
+    color: #ffffff;
     white-space: nowrap;
     transition: 0.3s;
 }
@@ -1056,14 +1056,14 @@ section {
 --------------------------------------------------------------*/
 
 #footer {
-    color: #37423b;
+    color: #ffffff;
     font-size: 14px;
-    background: #eef0ef;
+    background: #030f27;
 }
 
 #footer .footer-top {
     padding: 60px 0 30px 0;
-    background: #f9faf9;
+    background: #030f27;
 }
 
 #footer .footer-top .footer-contact {
@@ -1084,6 +1084,7 @@ section {
     margin-bottom: 0;
     font-family: "Raleway", sans-serif;
     color: #777777;
+    font-weight: bolder;
 }
 
 #footer .footer-top h4 {
